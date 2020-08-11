@@ -1,0 +1,9 @@
+name: Fimcraft
+version: 1.0
+main: com.fimcraft.Fimcraft
+description: Gives a discord link to the server
+
+commands:
+  verify:
+    description: Verify yourself with the discord server
+    usage: /verify
